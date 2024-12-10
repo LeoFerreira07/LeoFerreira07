@@ -1,18 +1,18 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=90cdf9&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=90cdf9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Jônatas+Gandra;I+study+systems+development+at+ETEC+Bento+Quirino;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=90cdf9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leonardo+Ferreira;I+study+systems+development+at+ETEC+Bento+Quirino;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JonatasGandra&show_icons=true&count_private=true&hide_border=true&title_color=90cdf9&icon_color=90cdf9&text_color=c9d1d9&bg_color=0d1117" alt="Jônatas Gandra github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonatasGandra&layout=compact&hide_border=true&title_color=90cdf9&text_color=90cdf9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LeoFerreira07&show_icons=true&count_private=true&hide_border=true&title_color=90cdf9&icon_color=90cdf9&text_color=c9d1d9&bg_color=0d1117" alt="Jônatas Gandra github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoFerreira07a&layout=compact&hide_border=true&title_color=90cdf9&text_color=90cdf9&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JonatasGandra&bg_color=0d1117&color=90cdf9&line=ffff&point=90cdf9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeoFerreira07&bg_color=0d1117&color=90cdf9&line=ffff&point=90cdf9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center">  
-<a href="https://www.linkedin.com/in/j%C3%B4natas-gandra-426062264/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-  <a href="https://www.instagram.com/jotinhg/" target="_blank"><img src="https://img.shields.io/badge/-instagram-f17ea1?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/leonardo-arruda-ferreira-26245230b/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+  <a href="https://www.instagram.com/leo_ferreira07/" target="_blank"><img src="https://img.shields.io/badge/-instagram-f17ea1?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
  
 ### Main skills:
