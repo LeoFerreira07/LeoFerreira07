@@ -4,7 +4,7 @@
 
 ---
 
-##About me  
+## About me  
 - Estudante de **Desenvolvimento de Sistemas** na **ETEC Bento Quirino**  
 - Onteresse em **Desenvolvimento Web, IA e Visão Computacional**   
 - Atualmente estudando **JavaScript**  
