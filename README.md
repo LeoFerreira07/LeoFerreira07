@@ -8,7 +8,7 @@
 
 
 
-  Atualmente estudando Machine Learning. 
+  * Atualmente estudando Machine Learning. 
   
 
 <p align="left">
