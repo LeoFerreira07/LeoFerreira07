@@ -4,7 +4,9 @@
 
 ### Prazer, sou Leonardo Ferreira!
 <img src="https://img.shields.io/static/v1?label=Overview&message=LeoFerreira07&color=557a95&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-  Sou estudante de Desenvolvimento de Sistemas e estagio na area de visão computacional.
+  Sou estudante de Desenvolvimento de Sistemas e trabalho na area de visão computacional.
+
+  Atualmente estudando Machine Learning. 
   
 
 <p align="left">
