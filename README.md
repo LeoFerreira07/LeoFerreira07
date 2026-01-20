@@ -3,7 +3,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=LeoFerreira07&show_icons=true&title_color=3a2b17&text_color=b1a296&icon_color=3a2b17&bg_color=d9dada&cache_seconds=2300" alt="ilustração do status do github">
 
 ### Prazer, sou Leonardo Ferreira!
-<img src="https://img.shields.io/static/v1?label=Overview&message=JonatasGandra&color=557a95&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=LeoFerreira07&color=557a95&style=for-the-badge&logo=GitHub" alt="Static GitHub">
   Sou estudante de Desenvolvimento de Sistemas e estagio na area de visão computacional.
   
 
