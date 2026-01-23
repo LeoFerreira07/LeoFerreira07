@@ -1,6 +1,5 @@
 --- 
-
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=LeoFerreira07&show_icons=true&title_color=3a2b17&text_color=b1a296&icon_color=3a2b17&bg_color=d9dada&cache_seconds=2300" alt="ilustração do status do github">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=LeoFerreira07&show_icons=true&title_color=e0e0e0&text_color=888888&icon_color=e0e0e0&bg_color=1a1a1a&hide_border=true&cache_seconds=2300" alt="vibe batman">
 
 ### Prazer, sou Leonardo Ferreira!
 <img src="https://img.shields.io/static/v1?label=Overview&message=LeoFerreira07&color=557a95&style=for-the-badge&logo=GitHub" alt="Static GitHub">
