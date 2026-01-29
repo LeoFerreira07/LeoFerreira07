@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=LeoFerreira07&show_icons=true&title_color=e0e0e0&text_color=888888&icon_color=e0e0e0&bg_color=1a1a1a&hide_border=true&cache_seconds=2300" alt="vibe batman">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=LeoFerreira07&show_icons=true&title_color=e0e0e0&text_color=888888&icon_color=e0e0e0&bg_color=1a1a1a&hide_border=true&cache_seconds=2300">
 
 ### Prazer, sou Leonardo Ferreira!
 <img src="https://img.shields.io/static/v1?label=Overview&message=LeoFerreira07&color=30363d&style=for-the-badge&logo=GitHub&labelColor=21262d" alt="Static GitHub">
